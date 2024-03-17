@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import Image from "next/image";
 
 const Feed = () => {
   const [allPosts, setAllPosts] = useState([]);
@@ -41,7 +42,7 @@ const Feed = () => {
   };
 
   return (
-    <section className='w-full flex flex-col items-center'>
+    <section className='w-full flex flex-col items-center mt-5'>
       <form className='relative w-2/3 flex-center'>
         <input
           type='text'
@@ -55,9 +56,9 @@ const Feed = () => {
 
       <div className="w-full mt-10 flex flex-row gap-x-5">
         {searchedResults.map((post, index) => (
-          <div key={index} className="bg-amber-100 rounded-lg flex flex-col items-center p-4" style={{backgroundColor: 'rgba(255,223,155,0.5)'}}>
-            <img src={post.logo} alt={`Logo of ${post.school}`} />
-            <p>{post.school}</p>
+          <div key={index} className="bg-amber-100 rounded-lg flex flex-col items-center p-4 w-1/8 h-50" style={{backgroundColor: 'rgba(255,223,155,0.5)'}}>
+            <img width="100px" height="100px" src={post.logo} alt={`Logo of ${post.school}`} />
+            <p className="text-xs">{post.school}</p>
           </div>
         ))}
       </div>
