@@ -168,3 +168,27 @@
 .flex-between {
   @apply flex justify-between items-center;
 }
+
+.hideMenuNav {
+  visibility: hidden; /* Initially hide dropdown */
+  opacity: 0;
+}
+.showMenuNav {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  visibility: visible; /* Make dropdown visible when open */
+  opacity: 1;
+  transition: visibility 0s linear 0s, opacity 300ms;
+}
+.HAMBURGER-ICON:hover {
+  cursor: pointer; /* Change cursor to indicate clickability */
+}
