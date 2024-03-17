@@ -27,7 +27,7 @@ const Feed = () => {
   const [searchedResults, setSearchedResults] = useState([]);
 
   const fetchPosts = async () => {
-    const response = await fetch("/api/prompt");
+    const response = await fetch("https://raw.githubusercontent.com/CodeTheCity/BrandedSchoolUniforms/scraper/data/sample.json");
     const data = await response.json();
 
     setAllPosts(data);
@@ -36,6 +36,8 @@ const Feed = () => {
   useEffect(() => {
     fetchPosts();
   }, []);
+
+  console.log(allPosts);
 
   const filterPrompts = (searchtext) => {
     const regex = new RegExp(searchtext, "i"); // 'i' flag for case-insensitive search
@@ -81,14 +83,14 @@ const Feed = () => {
       </form>
 
       {/* All Prompts */}
-      {searchText ? (
+      {/* {searchText ? (
         <PromptCardList
           data={searchedResults}
           handleTagClick={handleTagClick}
         />
       ) : (
         <PromptCardList data={allPosts} handleTagClick={handleTagClick} />
-      )}
+      )} */}
     </section>
   );
 };
