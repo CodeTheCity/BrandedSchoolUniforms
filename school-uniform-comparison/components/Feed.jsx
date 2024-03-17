@@ -35,9 +35,7 @@ const Feed = () => {
 
   useEffect(() => {
     fetchPosts();
-  }, []);
-
-  console.log(allPosts);
+  }, [allPosts]);
 
   const filterPrompts = (searchtext) => {
     const regex = new RegExp(searchtext, "i"); // 'i' flag for case-insensitive search
@@ -70,8 +68,8 @@ const Feed = () => {
   };
 
   return (
-    <section className='feed'>
-      <form className='relative w-full flex-center'>
+    <section className='w-full flex flex-col items-center'>
+      <form className='relative w-2/3 flex-center'>
         <input
           type='text'
           placeholder='Search for a school'
@@ -81,6 +79,15 @@ const Feed = () => {
           className='search_input peer'
         />
       </form>
+
+      <div className="w-full mt-10 flex flex-row gap-x-5">
+        {allPosts.map((post, index) => (
+          <div key={index} className="">
+            <Image src={post.logo}/>
+            <p>{post.school}</p>
+          </div>
+        ))}
+      </div>
 
       {/* All Prompts */}
       {/* {searchText ? (
