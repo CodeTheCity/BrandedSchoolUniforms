@@ -1,4 +1,5 @@
 import Feed from "../components/Feed";
+import ScatterGraph from '../components/Chart.jsx';
 
 const Home = () => (
   <section className='w-full flex-center flex-col'>
@@ -12,6 +13,7 @@ const Home = () => (
     </p>
 
     <Feed />
+    <ScatterGraph/>
   </section>
 );
 
