@@ -1,6 +1,7 @@
 [
     {
         "id" : 0,
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
         "school": "Aberdeen A School",
         "item_counts": 17,
         "products": [
@@ -24,9 +25,254 @@
                 "markup": 40.5
             }
         ]
-    },
-    {
+    }, {
         "id" : 1,
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
+        "school": "Aberdeen B School",
+        "item_counts": 17,
+        "products": [
+            {
+                "id": 0,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 1,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 2,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }
+        ]
+    }, {
+        "id" : 2,
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
+        "school": "Aberdeen B School",
+        "item_counts": 17,
+        "products": [
+            {
+                "id": 0,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 1,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 2,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }
+        ]
+    }, {
+        "id" : 3,
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
+        "school": "Aberdeen B School",
+        "item_counts": 17,
+        "products": [
+            {
+                "id": 0,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 1,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 2,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }
+        ]
+    }, {
+        "id" : 4,
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
+        "school": "Aberdeen B School",
+        "item_counts": 17,
+        "products": [
+            {
+                "id": 0,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 1,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 2,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }
+        ]
+    }, {
+        "id" : 5,
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
+        "school": "Aberdeen B School",
+        "item_counts": 17,
+        "products": [
+            {
+                "id": 0,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 1,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 2,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }
+        ]
+    }, {
+        "id" : 6,
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
+        "school": "Aberdeen B School",
+        "item_counts": 17,
+        "products": [
+            {
+                "id": 0,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 1,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 2,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }
+        ]
+    }, {
+        "id" : 7,
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
+        "school": "Aberdeen B School",
+        "item_counts": 17,
+        "products": [
+            {
+                "id": 0,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 1,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }, {
+                "id": 2,
+                "name_main": "product A",
+                "price_main": 18.99,
+                "image_main": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "name_comp": "product B",
+                "price_comp": 8.99,
+                "image_comp": "https://asda.scene7.com/is/image/Asda/5059190684335?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "markup": 40.5
+            }
+        ]
+    }, {
+        "id" : 8,
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
         "school": "Aberdeen B School",
         "item_counts": 17,
         "products": [
