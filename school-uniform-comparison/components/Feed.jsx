@@ -40,12 +40,22 @@ const Feed = () => {
 
   const filterPrompts = (searchtext) => {
     const regex = new RegExp(searchtext, "i"); // 'i' flag for case-insensitive search
+    
+    console.log(allPosts.filter(
+      (item) =>
+        regex.test(item.school)
+    ))
+
+    setAllPosts(allPosts.filter(
+      (item) =>
+        regex.test(item.school)
+    ))
+    
     return allPosts.filter(
       (item) =>
-        regex.test(item.creator.username) ||
-        regex.test(item.tag) ||
-        regex.test(item.prompt)
+        regex.test(item.school)
     );
+
   };
 
   const handleSearchChange = (e) => {
@@ -83,8 +93,8 @@ const Feed = () => {
 
       <div className="w-full mt-10 flex flex-row gap-x-5">
         {allPosts.map((post, index) => (
-          <div key={index} className="">
-            <Image src={post.logo}/>
+          <div key={index} className="bg-amber-100 rounded-lg flex flex-col items-center p-4" style={{backgroundColor: 'rgba(255,223,155,0.5)'}}>
+            <img src={post.logo}/>
             <p>{post.school}</p>
           </div>
         ))}
