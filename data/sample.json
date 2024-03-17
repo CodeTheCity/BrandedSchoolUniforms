@@ -1,8 +1,8 @@
 [
     {
         "id" : 0,
-        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
-        "school": "Aberdeen A School",
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/Abberley_Preschool.jpg",
+        "school": "Aberley Preschool",
         "item_counts": 17,
         "products": [
             {
@@ -27,8 +27,8 @@
         ]
     }, {
         "id" : 1,
-        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
-        "school": "Aberdeen B School",
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/abberley_j-10.jpg",
+        "school": "Abberley Primary School",
         "item_counts": 17,
         "products": [
             {
@@ -62,8 +62,8 @@
         ]
     }, {
         "id" : 2,
-        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
-        "school": "Aberdeen B School",
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/ABBEYHILL_PRIMARY.png",
+        "school": "Abbeyhill Primary School Abbotsgrange ELC Centre",
         "item_counts": 17,
         "products": [
             {
@@ -97,8 +97,8 @@
         ]
     }, {
         "id" : 3,
-        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
-        "school": "Aberdeen B School",
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/ABBOTS.png",
+        "school": "Abbotsgrange ELC Centre",
         "item_counts": 17,
         "products": [
             {
@@ -132,8 +132,8 @@
         ]
     }, {
         "id" : 4,
-        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
-        "school": "Aberdeen B School",
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/ABERLOUR_CHILDCARE_TRUST.jpg",
+        "school": "Aberlour Childcare Trust",
         "item_counts": 17,
         "products": [
             {
@@ -167,8 +167,8 @@
         ]
     }, {
         "id" : 5,
-        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/DunbarGrammarSchool.jpg_2381.jpg",
-        "school": "Aberdeen B School",
+        "logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/ABERNYTE_PRIMARY_V2.png",
+        "school": "Abernyte Primary School",
         "item_counts": 17,
         "products": [
             {
