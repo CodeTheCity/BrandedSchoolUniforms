@@ -13,7 +13,7 @@ const Home = () => (
     </p>
 
     <Feed />
-    <ScatterGraph />
+    <ScatterGraph/>
   </section>
 );
 
