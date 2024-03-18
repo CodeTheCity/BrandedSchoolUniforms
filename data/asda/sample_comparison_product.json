@@ -1,0 +1,43 @@
+{
+    "id": 0,
+    "item_name": "blazer",
+    "schools": [
+        {
+            "school": "school A",
+            "avg_price": 80,
+            "max_price": 100
+        }, {
+            "school": "school B",
+            "avg_price": 90,
+            "max_price": 100
+        }, {
+            "school": "ASDA",
+            "avg_price": 90,
+            "max_price": 100
+        }, {
+            "school": "school D",
+            "avg_price": 60,
+            "max_price": 100
+        }, {
+            "school": "school E",
+            "avg_price": 50,
+            "max_price": 100
+        }, {
+            "school": "school F",
+            "avg_price": 90,
+            "max_price": 100
+        }, {
+            "school": "school G",
+            "avg_price": 50,
+            "max_price": 100
+        }, {
+            "school": "school ",
+            "avg_price": 60,
+            "max_price": 100
+        }, {
+            "school": "school C",
+            "avg_price": 70,
+            "max_price": 100
+        }
+    ]
+}
