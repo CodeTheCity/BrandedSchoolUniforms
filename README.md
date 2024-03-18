@@ -33,5 +33,28 @@
     - `trial/pdf_to_text`: Trial for converting pdf to text
 
 ## Final data structure
-
+```
+[
+    {
+        "school_id": "0",
+        "school_name": "Abberley Preschool",
+        "school_logo": "https://www.border-embroideries.co.uk/pub/media/catalog/category/Abberley_Preschool.jpg",
+        "school_url": "https://www.border-embroideries.co.uk/schools/abberley-preschool.html",
+        "product_list": [
+            {
+                "product_id": "0",
+                "product_name": "ABBERLEY PRE SCHOOL SWEATSHIRT",
+                "product_price": "6.88",
+                "product_url": "https://www.border-embroideries.co.uk/abberley-pre-school-762-sshirt-100060.html",
+                "product_searchable": "sweatshirt",
+                "closest_product_name": "Cobalt Easy On School Sweatshirt 2 Pack",
+                "closest_product_price": "5",
+                "closest_product_img_src": "https://asda.scene7.com/is/image/Asda/5059190704613?hei=600&wid=450&qlt=85&fmt=pjpg&resmode=sharp2&op_usm=1.1,0.5,0,0&defaultimage=default_details_George_rd",
+                "closest_product_url": "https://direct.asda.com/george/school/jumpers-sweatshirts/cobalt-easy-on-school-sweatshirt-2-pack/GEM936313-122253,default,pd.html?clr=Cobalt",
+                "price_difference": 27.33
+            },
+        ]
+    }
+]
+```
         
